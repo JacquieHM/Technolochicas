@@ -42,7 +42,8 @@ https://youtu.be/B-jCi2rq7Jc?si=AHXBw6zSTjZDYOyJ
 
 Una etiqueta es un elemento, un componente básico de HTML. Se usan los elementos para definir la estrucutra de una página web en un archivo HTML. Especifican el tipo de elemento que se va a crear.
 Sintaxis de una etiqueta "<>"
-< H1 > ¡Hola, mundo! < H1 >
+
+Por ejemplo:  < H 1 > ¡Hola, mundo! < H 1 >
 
 Abrir una nueva carpeta para realizar el primer proyecto en Visual Studio. En esa misma carpeta crear otra carpeta que se llame "HolaMundo". Recuerda que es mejor evitar espacios o algún carácter especial para que la carpeta no tenga problemas para abrirse.
 
