@@ -54,4 +54,15 @@ Escribir html:5 para que despliegue la estrucutra básica del html: inicio y fin
 
 Anatomía de un elemento HTML
 
+![](https://github.com/JacquieHM/Technolochicas/blob/main/Captura%20de%20pantalla%202024-09-10%20134350.png)
+
+Algunos **elementos** no necesitan etiquetas de cierre.
+ SHFT + CTRL para cerrar etiquetas
+
+ ## Listado de etiquetas HTML comunes
+ https://www.javatpoint.com/html-tags
+CTRL + K + C para documentar
+Para adjuntar una imagen < img src="URL imagen" alt="descripción de imagen">
+
+## Listas no ordenadas
 
