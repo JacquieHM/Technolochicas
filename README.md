@@ -68,5 +68,32 @@ Para adjuntar una imagen < img src="URL imagen" alt="descripción de imagen">
 ![](https://github.com/JacquieHM/Technolochicas/blob/main/Captura%20de%20pantalla%202024-09-10%20182419.png)
 
 ## Listas ordenadas
-![]()
+![](https://github.com/JacquieHM/Technolochicas/blob/main/Captura%20de%20pantalla%202024-09-10%20190403.png)
+
+## Etiqueta letra negrita
+
+
+## Letra cursiva
+
+
+## Letra tachada
+
+
+Crear formularios
+
+
+## Botones de radio
+
+
+## Grupo de botones de radio
+
+Br salto de línea
+
+
+## Casillas de verificación
+
+
+## Sección o div
+
+## Pie de página
 
