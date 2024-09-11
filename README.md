@@ -65,5 +65,8 @@ CTRL + K + C para documentar
 Para adjuntar una imagen < img src="URL imagen" alt="descripción de imagen">
 
 ## Listas no ordenadas
-![](https://github.com/JacquieHM/Technolochicas/blob/main/Captura%20de%20pantalla%202024-09-10%20134350.png)
+![](https://github.com/JacquieHM/Technolochicas/blob/main/Captura%20de%20pantalla%202024-09-10%20182419.png)
+
+## Listas ordenadas
+![]()
 
