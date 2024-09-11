@@ -68,32 +68,27 @@ Para adjuntar una imagen < img src="URL imagen" alt="descripción de imagen">
 ![](https://github.com/JacquieHM/Technolochicas/blob/main/Captura%20de%20pantalla%202024-09-10%20182419.png)
 
 ## Listas ordenadas
-![](https://github.com/JacquieHM/Technolochicas/blob/main/Captura%20de%20pantalla%202024-09-10%20190403.png)
+![](https://github.com/JacquieHM/Technolochicas/blob/main/Cursivas.png)
 
 ## Etiqueta letra negrita
-
+![](https://github.com/JacquieHM/Technolochicas/blob/main/Captura%20de%20pantalla%202024-09-11%20111350.png)
 
 ## Letra cursiva
+![](https://github.com/JacquieHM/Technolochicas/blob/main/Cursivas.pngg)
 
-
-## Letra tachada
-
-
-Crear formularios
-
+## Crear formularios
+![](https://github.com/JacquieHM/Technolochicas/blob/main/Formulariopng)
 
 ## Botones de radio
+![](https://github.com/JacquieHM/Technolochicas/blob/main/Botones%20de%20radio.png)
 
-
-## Grupo de botones de radio
-
-Br salto de línea
-
+Br es salto de línea
 
 ## Casillas de verificación
-
+![](https://github.com/JacquieHM/Technolochicas/blob/main/Casillas%20verifi.png)
 
 ## Sección o div
+![](https://github.com/JacquieHM/Technolochicas/blob/main/Secci%C3%B3n.png)
 
 ## Pie de página
-
+![](https://github.com/JacquieHM/Technolochicas/blob/main/Pie%20de%20p%C3%A1gina.png)
