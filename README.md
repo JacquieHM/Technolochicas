@@ -92,3 +92,8 @@ Br es salto de línea
 
 ## Pie de página
 ![](https://github.com/JacquieHM/Technolochicas/blob/main/Pie%20de%20p%C3%A1gina.png)
+
+# Clase 4
+
+## Práctica de clonación de interfaz de Google
+
