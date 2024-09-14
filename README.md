@@ -97,3 +97,30 @@ Br es salto de línea
 
 ## Práctica de clonación de interfaz de Google
 
+![](https://github.com/JacquieHM/Technolochicas/blob/main/CSS%20layout.png)
+
+Display para layouts 
+Todos los elementos en html son cajas.
+
+Layout se refiere a la manera en que se distribuyen los elementos y las formas dentro de un diseño
+
+FlexBox: hacia un sentido, derecha-izquierda o arriba-abajo. Para usar el Flexbox, necesitas definir un contenedor flex
+
+< div class="flex-container" >
+  
+  < div >1< /div >
+ 
+  < div >2< /div >
+ 
+  < div >3< /div >
+
+< /div >
+
+Grid : Hacia dos sentidos, derecha-izquierda y arriba-abajo
+el comportamiento solo afecta al hijo directo
+el contenedor padres es donde se acomodan todas las cajas
+
+
+
+
+
