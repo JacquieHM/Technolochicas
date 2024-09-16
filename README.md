@@ -120,6 +120,9 @@ Grid : Hacia dos sentidos, derecha-izquierda y arriba-abajo
 el comportamiento solo afecta al hijo directo
 el contenedor padres es donde se acomodan todas las cajas
 
+Padding: básico, a cada lado, en una línea. Cómo se distribuye en contenido dentro de la cajita
+Margin: ajustar el margen, margen en una línea. Cómo se comporta con respecto a los demás.
+
 
 
 
